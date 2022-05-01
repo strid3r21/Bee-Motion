@@ -1,7 +1,7 @@
 # Bee Motion
 Documentation for the Bee Motion
 
-**Visit our [Discord](tinyurl.com/Bee-Motion-Discord-Git) **
+**Visit our **[Discord](tinyurl.com/Bee-Motion-Discord-Git)
 
 ![alt text](https://github.com/strid3r21/Bee-Motion/blob/main/Bee-Motion-Info-Card.png?raw=true)
 
