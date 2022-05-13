@@ -4,6 +4,8 @@
 ## **Visit our** [Discord](tinyurl.com/Bee-Motion-Discord-Git)
 ## **Buy on** [Tindie](https://www.tindie.com/products/smartbee/bee-motion-esp32-pir-motion-sensor/)
 
+Video Overview
+[<img src="https://img.youtube.com/vi/eUtSaV774to/maxresdefault.jpg" width="100%">](https://youtu.be/eUtSaV774to)
 ![alt text](https://github.com/strid3r21/Bee-Motion/blob/main/Bee-Motion-Info-Card.png?raw=true)
 
 **On Battery the Bee Motion Uses about 80mAH while on WiFi**
