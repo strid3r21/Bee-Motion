@@ -1,7 +1,7 @@
 # Bee Motion
 
 
-## **Visit our** [Discord](wwww.tinyurl.com/Bee-Motion-Discord-Git)
+## **Visit our** [Discord](https://tinyurl.com/Bee-Motion-Discord-Git)
 ## **Buy on** [Tindie](https://www.tindie.com/products/smartbee/bee-motion-esp32-pir-motion-sensor/)
 
 Video Overview
