@@ -19,7 +19,7 @@ ________________________________________________________________________________
 ## How to program the Bee Motion
 In order to program the Bee Motion you need to put it into download mode. To do so all you need to do is connect the USB-C cable and then press and hold the boot button. with the boot button being held down, press the reset button and release. then you can release the boot button. this will put the Bee Motion into download mode which will allow it to be programmed. Then for the board, select the ESP32S2 Dev Module.
 
-## My Computer only will see the Bee Motion when its in download load mode.
+## My Computer only will see the Bee Motion when its in download mode.
 Go to Tools > USB CDC on Boot and make sure that is enabled. Once it's enabled, reflash your code to the Bee Motion and your PC will see the Bee Motion when its plugged in and the Serial Monitor will work.
 
 ![alt text](https://imgur.com/Zo4XGVt.jpg?raw=true)
