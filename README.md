@@ -28,10 +28,10 @@ Go to Tools > USB CDC on Boot and make sure that is enabled. Once it's enabled, 
 # Battery Life Information
 _______________________________________________________________________________________________________________________
 
-**On Battery the Bee Motion Uses about 80mAH while on WiFi**
+**On battery power the Bee Motion uses about 80mAH while on WiFi**
 ![alt text](https://github.com/strid3r21/Bee-Motion/blob/main/Battery%20Info/Bee%20Motion%20Awake%20Bat.jpg?raw=true)
 
-**During Deepsleep it uses about 45uA!**
+**During deepsleep it uses about 45uA!**
 ![alt text](https://github.com/strid3r21/Bee-Motion/blob/main/Battery%20Info/Bee%20Motion%20Deep%20Sleep%20Bat.jpg?raw=true)
 
 **For sake of an example, if paired with a 1500mAh LiPo battery and triggered 20x a day with Wifi it would last for over a year!**
