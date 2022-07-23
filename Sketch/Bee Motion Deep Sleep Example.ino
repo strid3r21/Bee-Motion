@@ -1,4 +1,5 @@
-
+//NOTE! the Serial Monitor debugging does not work when deep sleep is being used as the serial cant initializae with the board going to sleep constantly.
+// if you need to debug, remove the deep sleep functionallity and then add it back in once you've locked down your normal code.
 
 #define BUTTON_PIN_BITMASK 0x20 // 2^5 in hex
 RTC_DATA_ATTR int bootCount = 0;
