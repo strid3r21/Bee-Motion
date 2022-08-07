@@ -1,8 +1,4 @@
 
-#include "WiFi.h"
-#define WLAN_SSID "Your-Wifi"
-#define WLAN_PASS "Your-Wiii-Password"
-
 #define PIR 5  //defining the PIR
 
 void setup() {
