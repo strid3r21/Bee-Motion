@@ -3,7 +3,7 @@
 put the board into download mode by holding boot button and pressing reset button then release both buttons. 
 Use esptool to erease flash and then flash new firmware onto the board.
 
-Erase the flash.
+##Erase the flash.
 
 ### Windows
 Change xxx to whatever COM port is being used by the board
@@ -20,6 +20,7 @@ Please do a `ls /dev/cu.usbm*` to determine the port your board has enumerated a
 ```bash
 esptool.py --chip esp32s2 --port /dev/cu.usbmodem01 erase_flash
 ```
+_____________________________________________________________________________________________
 
 ## Flash New Firmware To The Board
 
