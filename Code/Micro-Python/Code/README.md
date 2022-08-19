@@ -6,3 +6,8 @@ _______________________________________________
 
 ### deepsleep and motion examples
 these are examples. you can copy them to your board and then use REPL to import either one to start it. it will run until the board is reset. after which you would need to import the code again to make it run. the deepsleep will only make one loop as once its gone into deepsleep, its effectively reset itself and therefor the code would need imported again. 
+
+_______
+
+### BM.py
+this is a helper library that is baked into the firmware. you do not need to place it on your board. but it is here for your reference.
