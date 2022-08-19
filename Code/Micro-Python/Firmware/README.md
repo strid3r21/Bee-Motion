@@ -22,6 +22,7 @@ Change xxx to whatever COM port is being used by the board
 ```bash
 esptool --chip esp32s2 --port COMxxx erase_flash
 ```
+__________________________________________________________________________________
 
 ## Now flash the firmware on to the board.
 
