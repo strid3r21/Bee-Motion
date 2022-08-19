@@ -4,7 +4,8 @@
 Put the board into download mode by holding boot button and pressing reset button then release both buttons. 
 Use esptool to erease flash and then flash new firmware onto the board.
 
-Erase the flash.
+## Erase the flash.
+
 ### Linux
 ```bash
 esptool.py --chip esp32s2 --port /dev/ttyACM0 erase_flash
@@ -22,7 +23,7 @@ Change xxx to whatever COM port is being used by the board
 esptool --chip esp32s2 --port COMxxx erase_flash
 ```
 
-Now flash the firmware on to the board using one of the options below.
+## Now flash the firmware on to the board.
 
 ### Linux
 ```bash
