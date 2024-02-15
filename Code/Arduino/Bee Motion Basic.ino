@@ -5,8 +5,6 @@ void setup() {
   Serial.begin(115200);
 
   pinMode(PIR, INPUT);   //Setting the PIR as an Input
- 
-    WiFi.begin(WLAN_SSID, WLAN_PASS);
   delay(2000);
 }
 
